@@ -1,0 +1,23 @@
+marks1=100
+marks2=95
+marks3=90
+marks4=85
+marks5=80
+marks6=75
+marks7=70
+marks8=65
+marks9=60
+marks10=55
+marks11=50
+marks12=45
+marks13=40
+marks14=30
+marks15=25
+marks16=20
+marks17=15
+marks18=10
+marks19=5
+marks20=0
+sum=marks1+marks2+marks3+marks4+marks5+marks6+marks7+marks8+marks9+marks10+marks11+marks12+marks13+marks14+marks15+marks16+marks17+marks18+marks19+marks20
+percentage=(sum/20000) *100
+print(percentage)
